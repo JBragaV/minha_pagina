@@ -1,0 +1,44 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.navagation-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    font-size: 1.369em;
+}
+.section{
+    display: flex;
+    flex-flow: row wrap;    
+    background: orangered;
+    justify-content: center;
+}
+
+.div1{
+    background: red;
+    flex-basis: 30%;
+}
+.div2{
+    background: purple;
+    flex-basis: 30%;
+}
+.div3{
+    background: blue;
+    flex-basis: 30%;
+}
+.div4{
+    background: yellowgreen;
+    flex-basis: 30%;
+}
+.div5{
+    background: olive;
+    flex-basis: 30%;
+}
+.div6{
+    background: orange;
+    flex-basis: 30%;
+}
